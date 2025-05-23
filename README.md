@@ -1,6 +1,6 @@
 # My-Digital-Portfolio
 👋 Welcome to my Digital Portfolio!
-I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Application Development at CPUT. This portfolio highlights my journey through career planning, skill development, and self-reflection using the STAR Method (Situation, Task, Action, Result). This is a glimpse into my growth, passions, and future in tech. 
+I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Application Development at CPUT. This portfolio highlights my journey through career planning, skill development, and self-reflection using the STAR Method (Situation, Task, Action, Result). This is a glimpse into my growth, passions, and future in tech.  ejdkedkwke
 
 <hr style="height:45px; background-color:black; border:none;">
 
