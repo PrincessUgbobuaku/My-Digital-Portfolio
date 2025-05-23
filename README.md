@@ -11,17 +11,17 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 
 ### Reflection:
 
-**S:** Although I had a general idea of the career I wanted to pursue, within the IT field, I was unsure of the exact steps needed to achieve it such as what actions to take, what qualifications were needed or how to move forward in that career path.  
+- **S:** Although I had a general idea of the career I wanted to pursue, within the IT field, I was unsure of the exact steps needed to achieve it such as what actions to take, what qualifications were needed or how to move forward in that career path.  
 
-**T:** I needed to gain clarity on how to set meaningful career goals and understand the steps I should be taking to move forward with purpose. This involved researching various IT career paths, identifying the necessary qualifications and skills, and outlining practical actions to help guide my progress.  
+- **T:** I needed to gain clarity on how to set meaningful career goals and understand the steps I should be taking to move forward with purpose. This involved researching various IT career paths, identifying the necessary qualifications and skills, and outlining practical actions to help guide my progress.  
 
-**A:** To address this, I decided to go through the Career Counselling module. While reading, I reflected on several key areas that helped me align with the right direction. These included:
-- Clearly defining my career goal
-- Thinking about where I want to be in the next 3 - 5 years
-- Listing the skills I want to develop along the way
-- Researching various IT career paths
+- **A:** To address this, I decided to go through the Career Counselling module. While reading, I reflected on several key areas that helped me align with the right direction. These included:
+  - Clearly defining my career goal
+  - Thinking about where I want to be in the next 3 - 5 years
+  - Listing the skills I want to develop along the way
+  - Researching various IT career paths
   
-**R:** By completing these exercises, I gained clarity and direction. I now have a stronger understanding of my career path and feel more confident in the small, actionable steps I need to take to achieve my long-term goals.
+- **R:** By completing these exercises, I gained clarity and direction. I now have a stronger understanding of my career path and feel more confident in the small, actionable steps I need to take to achieve my long-term goals.
 
 <hr style="height:3px; background-color:black; border:none;">
 
@@ -34,27 +34,32 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 
 **🌟 Situation:**
 
-I was uncertain about whether my technical and soft skills were at the level needed to succeed in the IT field. When I began applying for jobs, I noticed that many of the roles required skills I was either unfamiliar with or not confident in. This left me feeling underprepared and unsure about where my strengths truly are.
+I was uncertain about whether my technical and soft skills were at the level needed to succeed in the IT field. When I began applying for jobs, I noticed that many of the roles required skills I was either unfamiliar with or not confident in. This left me feeling underprepared and unsure about where my strengths truly lay.
 
 **🎯 Task:**
 
-I needed to identify the in-demand technical and soft skills in the job market and take action to improve in the areas most relevant to my goals. I also wanted to better understand where my genuine interests and values aligned with my potential career path.
+I needed to identify the in-demand technical skills in the job market and take action to improve in the areas most relevant to my goals. I also wanted to determine whether my interests and values aligned with my potential career path.
 
 **✅ Action:**   
 
-I started by browsing job listings to identify common skills required across roles I could realistically apply for. From there, I began a few Udemy courses to build my technical capabilities. I also completed a few LinkedIn Learning courses to develop my soft skills—like communication, adaptability, and teamwork.  
+I started by browsing job listings to identify common skills required across roles I could realistically apply for. From there, I began a few Udemy courses to build my technical capabilities. I also completed a few LinkedIn Learning courses to develop my soft skills such as leadership and time management.  
+
+#### Technical skills  
 
 - 📄 [View My Udemy Courses Progress](./udemy_course_progress.png)  
 - 📁 Check out my [Hangman project](./Hangman.java)! I developed it using Java
 - 📁 View my [profile card](https://github.com/PrincessUgbobuaku/My-Profile-Page) mobile application using React Native. I plan on expanding it into a fully functional, interactive user profile system with features like editing personal details, uploading profile pictures, and integrating backend data for real-time updates.
 
+#### Soft skills  
+
+ - View my certificates of completion for Project Leadership and Time Management
 
 
-The career development module also encouraged us to recognize our transferable skills and reflect on our values, mine being:  
+The career development module also encouraged us to reflect on our values, mine being:  
 
 - **Discipline:** I do take my work very seriously and always stick to my already planned goals.
 - **Respect:** I will always treat others fairly and appreciate diverse opinions in the workplace.
-- **Teamwork:** You value working with other talented individuals and contributing to a common goal.
+- **Teamwork:** I value working with other talented individuals and contributing to a common goal.
 - **Trust:** I value honesty above all and being reliable.
 
 This self-reflection helped guide my learning path. Along the way, I discovered a real passion for web development and React Native, particularly for creating cross-platform mobile apps. I’ve continued to upskill in Java as well.  
