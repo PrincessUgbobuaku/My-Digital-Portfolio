@@ -1,13 +1,13 @@
 # My-Digital-Portfolio
 👋 Welcome to my Digital Portfolio!
-I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Application Development at CPUT. This portfolio highlights my journey through career planning, skill development, and self-reflection using the STAR Method (Situation, Task, Action, Result). This is a glimpse into my growth, passions, and future in tech.  ejdkedkwked
+I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Application Development at CPUT. This portfolio highlights my journey through career planning, skill development, and self-reflection using the STAR Method (Situation, Task, Action, Result). This is a glimpse into my growth, passions, and future in tech.
 
 <hr style="height:45px; background-color:black; border:none;">
 
 # 📑 Table of Contents
 - [Career Counselling](#career-counselling)
 - [Skills & Interests](#skills-&-interests)
-- Personality Assessment
+- [Personality Assessment](#personality-assessment)
 - Create a CV
 - CV Submission
 
@@ -91,4 +91,26 @@ This process gave me a much clearer sense of direction and confidence. I now hav
 
 - Through this assessment, I gained valuable insight into how I approach challenges and work environments. It helped me understand how to better communicate and collaborate, while also reinforcing that my interest in building and exploring through tech—like in coding or app development—aligns naturally with my personality. I now have more confidence in choosing roles that fit me and developing skills that enhance both my independence and teamwork.
 
+## Create a CV
+
+### Evidence
+![](create_a_CV.png)
+
+### Reflection
+
+**🌟 Situation:**  
+
+- Although I already had a CV, I quickly realized it was outdated and no longer aligned with the career path I was working towards. It mostly included skills and experience from the restaurant and admin industries, which no longer reflected my current goals in the IT field.
+
+**🎯 Task:**  
+
+- I needed to create a new, professional CV that accurately represented my current technical and soft skills, education, and aspirations; something that would position me as a potential candidate in the ICT and software development space.
+
+**✅ Action:**  
+
+- After reading the "Create a CV" module and doing additional research, I learned the importance of tailoring my CV to each job I apply for. I updated the format of my original CV to give it a clean, modern look, removed irrelevant experience, and added new sections highlighting my Java, HTML, CSS, and JavaScript skills, along with current interests like React Native. I also added my most recent projects and aligned my CV with roles in application development.
+
+**🏁 Result:**  
+
+- I now have a CV that reflects where I am in my career and where I want to go. I’ve learned that CVs aren’t static and should evolve as my skills and experiences do. I feel much more confident applying for roles with a document that truly represents me.
 
