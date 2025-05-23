@@ -5,11 +5,7 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 <hr style="height:45px; background-color:black; border:none;">
 
 # 📑 Table of Contents
-- [Career Counselling](#career-counselling)
-- [Skills & Interests](#skills-&-interests)
-- [Personality Assessment](#personality-assessment)
-- Create a CV
-- CV Submission
+[Skills & Interests](#skills-&-interests)
 
 <hr style="height:3px; background-color:black; border:none;">
 
@@ -113,4 +109,27 @@ This process gave me a much clearer sense of direction and confidence. I now hav
 **🏁 Result:**  
 
 - I now have a CV that reflects where I am in my career and where I want to go. I’ve learned that CVs aren’t static and should evolve as my skills and experiences do. I feel much more confident applying for roles with a document that truly represents me.
+
+## CV Submission
+
+### Evidence
+![](CV_submission.png)
+
+### Reflection
+
+**🌟 Situation:**  
+
+- After updating and finalizing my professional CV tailored for the ICT field, it was time to submit it for review or job applications.
+
+**🎯 Task:**  
+
+- I needed to ensure that my CV was submitted on time, in the correct format, and aligned with the requirements provided.
+
+**✅ Action:**
+
+- I reviewed the submission instructions carefully, double-checked the content and formatting of my CV, and submitted it before the deadline through the required platform.
+
+**🏁 Result:**  
+
+- I successfully submitted a CV I was confident in, meeting all the submission criteria and showcasing my updated skills and experience
 
