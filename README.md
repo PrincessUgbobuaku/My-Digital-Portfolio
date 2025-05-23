@@ -44,7 +44,10 @@ I needed to identify the in-demand technical and soft skills in the job market a
 
 I started by browsing job listings to identify common skills required across roles I could realistically apply for. From there, I began a few Udemy courses to build my technical capabilities. I also completed a few LinkedIn Learning courses to develop my soft skills—like communication, adaptability, and teamwork.  
 
-📄 [View My Udemy Courses Progress](./udemy_course_progress.png)
+- 📄 [View My Udemy Courses Progress](./udemy_course_progress.png)  
+- 📁 Check out my [Hangman project](./Hangman.java)! I developed it using Java
+- 📁 View my [profile card](https://github.com/PrincessUgbobuaku/My-Profile-Page) mobile application using React Native. I plan on expanding it into a fully functional, interactive user profile system with features like editing personal details, uploading profile pictures, and integrating backend data for real-time updates.
+
 
 
 The career development module also encouraged us to recognize our transferable skills and reflect on our values, mine being:  
