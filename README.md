@@ -110,6 +110,9 @@ This process gave me a much clearer sense of direction and confidence. I now hav
 ### Evidence
 ![](CV_submission.png)
 
+📄 [View My CV](./adaeze_princess-submission_CV.pdf)
+
+
 ### Reflection
 
 **🌟 Situation:**  
