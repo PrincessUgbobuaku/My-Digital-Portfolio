@@ -44,6 +44,9 @@ I needed to identify the in-demand technical and soft skills in the job market a
 
 I started by browsing job listings to identify common skills required across roles I could realistically apply for. From there, I began a few Udemy courses to build my technical capabilities. I also completed a few LinkedIn Learning courses to develop my soft skills—like communication, adaptability, and teamwork.  
 
+📄 [View My Udemy Courses Progress](./udemy_course_progress.png)
+
+
 The career development module also encouraged us to recognize our transferable skills and reflect on our values, mine being:  
 
 - **Discipline:** I do take my work very seriously and always stick to my already planned goals.
