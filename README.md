@@ -61,7 +61,7 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 
 <hr style="height:3px; background-color:black; border:none;">
 
-## Personality Assesment
+## Personality Assessment
 
 ### Evidence
 ![](personality_assessment.png)
