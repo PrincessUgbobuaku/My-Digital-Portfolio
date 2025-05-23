@@ -5,8 +5,8 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 <hr style="height:45px; background-color:black; border:none;">
 
 # 📑 Table of Contents
-- [Career Counselling](#career-counselling)
-- Skills & Interests
+- [Career Counselling](career-counselling)
+- [Skills & Interests](skills-&-interests)
 - Personality Assessment
 - Create a CV
 - CV Submission
@@ -32,4 +32,63 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
   
 **R:** By completing these exercises, I gained clarity and direction. I now have a stronger understanding of my career path and feel more confident in the small, actionable steps I need to take to achieve my long-term goals.
 
+<hr style="height:3px; background-color:black; border:none;">
+
 ## Skills & Interests
+
+### Evidence
+![](skills_and_interests.png)
+
+### Reflection
+
+**🌟 Situation:**
+
+I was uncertain about whether my technical and soft skills were at the level needed to succeed in the IT field. When I began applying for jobs, I noticed that many of the roles required skills I was either unfamiliar with or not confident in. This left me feeling underprepared and unsure about where my strengths truly are.
+
+**🎯 Task:**
+
+I needed to identify the in-demand technical and soft skills in the job market and take action to improve in the areas most relevant to my goals. I also wanted to better understand where my genuine interests and values aligned with my potential career path.
+
+**✅ Action:**   
+
+I started by browsing job listings to identify common skills required across roles I could realistically apply for. From there, I began a few Udemy courses to build my technical capabilities. I also completed a few LinkedIn Learning courses to develop my soft skills—like communication, adaptability, and teamwork.  
+
+The career development module also encouraged us to recognize our transferable skills and reflect on our values, mine being:  
+
+- **Discipline:** I do take my work very seriously and always stick to my already planned goals.
+- **Respect:** I will always treat others fairly and appreciate diverse opinions in the workplace.
+- **Teamwork:** You value working with other talented individuals and contributing to a common goal.
+- **Trust:** I value honesty above all and being reliable.
+
+This self-reflection helped guide my learning path. Along the way, I discovered a real passion for web development and React Native, particularly for creating cross-platform mobile apps. I’ve continued to upskill in Java as well.  
+
+**🏁 Result:**  
+This process gave me a much clearer sense of direction and confidence. I now have a structured learning plan tailored to both my interests and the needs of the job market. I've also grown more aware of my strengths, values, and the soft skills I bring to the table—setting a strong foundation for my career journey.
+
+<hr style="height:3px; background-color:black; border:none;">
+
+## Personality Assesment
+
+### Evidence
+![](personality_assessment.png)
+
+### Reflection
+
+**🌟 Situation:**  
+
+- As part of my career development journey, I had to complete a module on personality assessment. At the time, I was still trying to figure out how my personality traits could impact my career choices, work style, and communication with others in team environments.
+
+**🎯 Task:**  
+
+- The goal was to understand myself better through a personality test and reflect on how my traits align with potential roles and responsibilities in the workplace. I needed to evaluate what environments would bring out the best in me and how I could use my personality strengths in my career.
+
+**✅ Action:**  
+
+- I took a personality test, which identified me as an ISTP (Virtuoso). This profile described me as an independent, practical problem-solver who thrives on exploring how things work. I connected deeply with this, especially the parts about hands-on learning, curiosity, and being adaptable in unpredictable situations.
+- As I reflected, I could see how this aligned with my passion for software development, where logical thinking and creativity are often needed on the spot. I also appreciated the reminder that while I enjoy working independently, I need to be mindful of collaboration in team projects—a key soft skill in ICT roles.
+
+**🏁 Result:**
+
+- Through this assessment, I gained valuable insight into how I approach challenges and work environments. It helped me understand how to better communicate and collaborate, while also reinforcing that my interest in building and exploring through tech—like in coding or app development—aligns naturally with my personality. I now have more confidence in choosing roles that fit me and developing skills that enhance both my independence and teamwork.
+
+
