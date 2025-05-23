@@ -5,7 +5,7 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 <hr style="height:45px; background-color:black; border:none;">
 
 # 📑 Table of Contents
-- [Career Counselling](career-counselling)
+- [Career Counselling](#career-counselling)
 - [Skills & Interests](skills-&-interests)
 - Personality Assessment
 - Create a CV
