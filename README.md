@@ -170,4 +170,33 @@ This mock interview was not just a simulation — it helped me practice in a rea
 
 - **R:** The mock interview was a valuable experience. It helped me identify areas to work on — such as slowing down when I speak and elaborating on technical experience — but overall, I was able to communicate confidently and clearly. I believe doing this mock interview was an important step that directly contributed to how well I performed during the real interview that led to me getting my internship.
 
+## Professional Networking
+
+### Evidence
+
+####LinkedIn Profile
+
+[insert below]
+
+####Indeed Profile
+
+[insert below]
+
+![](professional_networking.png)
+
+### Reflection
+
+- **S:** As I was entering the professional world through my internship, I realized I had very few connections in the tech industry. I knew that building a professional network was important for finding job opportunities, learning from others, and growing in my career, but I didn’t know how or where to begin.
+
+- **T:** My task was to build and strengthen my professional network, both online and in person. This involved creating profiles on networking platforms like LinkedIn and Indeed, connecting with others in my field, and engaging with the tech community in meaningful ways.
+
+- **A:** I started by updating and polishing my LinkedIn profile, adding a professional photo, listing my skills, and describing my education and internship experience. I connected with lecturers, peers, and other developers I met through the internship. I followed industry pages and engaged with posts that aligned with my interests in web and mobile development.
+
+I also created a profile on Indeed, where I explored job opportunities, followed companies I was interested in, and began applying for internships that matched my skills. I made sure to tailor my CV and cover letter for each application, and used both platforms to keep up with trends in the job market.
+
+In addition to online networking, I took the initiative to introduce myself to colleagues during my internship, ask questions about their career paths, and build relationships with people already working in the industry.
+
+- **R:** As a result, I grew my LinkedIn network significantly and started receiving messages from recruiters and fellow developers. Using Indeed, I was able to apply for several opportunities and gain more confidence in navigating the job market. Most importantly, I began forming professional connections that I believe will benefit me long-term. This experience showed me that networking is not just about looking for jobs — it's about learning, growing, and supporting others in the industry.
+
+
 
