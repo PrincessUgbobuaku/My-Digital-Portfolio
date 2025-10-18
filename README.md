@@ -148,8 +148,7 @@ For my mock interview, I applied several important skills that I had learned fro
 
 This mock interview was not just a simulation — it helped me practice in a realistic setting and gave me the confidence I needed.
 
-🔗 Watch my mock interview here:
-[📥 Download my mock interview video (raw)](https://raw.githubusercontent.com/PrincessUgbobuaku/My-Digital-Portfolio/main/Mock%20Interview%20-%20230098010%20-%20Compressed.mp4)
+🔗 Watch my mock interview here: [📥 Download my mock interview video (raw)](https://raw.githubusercontent.com/PrincessUgbobuaku/My-Digital-Portfolio/main/Mock%20Interview%20-%20230098010%20-%20Compressed.mp4)
 
 ![](mock_interview.png)
 
