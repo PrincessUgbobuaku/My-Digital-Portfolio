@@ -155,25 +155,19 @@ For my mock interview, I applied several important skills that I had learned fro
 
 This mock interview was not just a simulation — it helped me practice in a realistic setting and gave me the confidence I needed.
 
-📎 Watch my mock interview here:
-[📥 Download / Watch the mock interview video (raw)](https://raw.githubusercontent.com/PrincessUgbobuaku/My-Digital-Portfolio/main/Mock%20Interview%20-%20230098010%20-%20Compressed.mp4)
-
-
-
-📎 [🔗 Watch my mock interview on GitHub](https://github.com/PrincessUgbobuaku/My-Digital-Portfolio/blob/main/Mock%20Interview%20-%20230098010%20-%20Compressed.mp4)
-
-
+🔗 Watch my mock interview here:
+[📥 Download my mock interview video (raw)](https://raw.githubusercontent.com/PrincessUgbobuaku/My-Digital-Portfolio/main/Mock%20Interview%20-%20230098010%20-%20Compressed.mp4)
 
 ![](mock_interview.png)
 
 ### Reflection
 
-- **S:** Before starting my internship, I lacked confidence in interviews. I often struggled to express myself clearly or highlight my strengths effectively. I realized that even though I had the skills, I wasn’t communicating them well during interviews.
+- **S:** As part of our internship preparation, we were tasked with completing a mock interview. This was meant to simulate a real-world interview scenario where we would apply the communication and presentation skills we had developed.
 
-- **T:** I needed to develop my interview skills, particularly in how I present myself, respond to questions professionally, and showcase my strengths using real examples. My goal was to become more comfortable and articulate during both mock and real interviews.
+- **T:** My goal was to approach the mock interview as professionally as possible — as if it were a real job opportunity. I wanted to show confidence, clearly articulate my experiences, and apply the interview strategies I had learned.
 
-- **A:** I completed the Interview Skills module, which covered important techniques like using the STAR method to answer questions, maintaining good posture, speaking clearly, and dressing appropriately for an interview. I practiced answering common interview questions and reflected on my past experiences to prepare meaningful responses. I also worked on improving my body language and eye contact, and rehearsed speaking in a calm and confident tone.
+- **A:** I prepared by revising key questions and practicing my answers using the STAR method. I chose professional attire for the video, created a quiet and presentable environment, and ensured I had a plain, clear background that was free of distractions. I also recorded the interview using clear audio and good lighting. During the interview, I paid close attention to my tone, avoided filler words, and stayed focused on answering the questions thoroughly and with structure.
 
-- **R:** These efforts helped me feel more prepared and composed in interviews. I now approach interviews with confidence and structure my answers clearly using the STAR method. I believe these skills played a big role in helping me secure my current internship, and I continue to build on them as I grow professionally and prepare for future opportunities.
+- **R:** The mock interview was a valuable experience. It helped me identify areas to work on — such as slowing down when I speak and elaborating on technical experience — but overall, I was able to communicate confidently and clearly. I believe doing this mock interview was an important step that directly contributed to how well I performed during the real interview that led to me getting my internship.
 
 
