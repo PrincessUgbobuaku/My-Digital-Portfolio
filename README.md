@@ -178,7 +178,7 @@ This is how my updated LinkedIn profile looks like:
 
 ![](linkedin_profile_after.png)
 
-**Connect with me on LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
+**Connect with me on LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/princess-ugbobuaku)
 
 ### Reflection
 
