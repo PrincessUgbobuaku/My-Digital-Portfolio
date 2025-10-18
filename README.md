@@ -170,13 +170,13 @@ This mock interview was not just a simulation — it helped me practice in a rea
 
 #### LinkedIn Profile
 
-[insert below]
+This is how my LinkedIn profile looked before I updated it:
+![](linkedin_profile_before.png)
 
-#### Indeed Profile
+This is how my updated LinkedIn profile looks like:
+![](linkedin_profile_after.png)
 
-[insert below]
-
-![](professional_networking.png)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/princess-ugbobuaku)
 
 ### Reflection
 
