@@ -171,12 +171,14 @@ This mock interview was not just a simulation — it helped me practice in a rea
 #### LinkedIn Profile
 
 This is how my LinkedIn profile looked before I updated it:
+
 ![](linkedin_profile_before.png)
 
 This is how my updated LinkedIn profile looks like:
+
 ![](linkedin_profile_after.png)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/princess-ugbobuaku)
+**Connect with me on LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
 
 ### Reflection
 
