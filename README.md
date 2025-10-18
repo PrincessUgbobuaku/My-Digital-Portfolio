@@ -109,4 +109,21 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 - **A:** I reviewed the submission instructions carefully, double-checked the content and formatting of my CV, and submitted it before the deadline through Blackboard.
 
 - **R:** I successfully submitted a CV I was confident in, meeting all the submission criteria and showcasing my updated skills and experience
+  
+
+## Business Communication
+
+### Evidence
+![](business_communication.png)
+
+### Reflection
+
+- **S:** When I first started my internship, I found it difficult to adapt to the professional communication style expected in the workplace. I was used to casual messages in class groups or student projects, but here I had to interact with supervisors, clients, and developers using clear, respectful, and concise language.
+
+- **T:** My goal was to improve my business communication skills — specifically in how I write professional emails, speak during stand-up meetings, and ask or respond to questions in team discussions. I also wanted to gain confidence in using the correct tone and terminology.
+
+- **A:** I completed the Business Communication module to learn the principles of workplace communication. I also paid close attention during meetings and email exchanges, observing the specific terminology and professional tone my colleagues used. I made a conscious effort to incorporate these terms into my daily stand-up updates and team interactions. I also practiced structuring my emails more clearly, using appropriate subject lines and greetings.
+
+- **R:** Over time, I became more confident in my communication. My messages were clearer, and I was able to express myself more professionally during meetings. I received positive feedback from my mentor and peers, and I now feel more prepared for any communication situation in a professional environment.
+
 
