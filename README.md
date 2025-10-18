@@ -114,11 +114,11 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 
 - **S:** When I first started my internship, I found it difficult to adapt to the professional communication style expected in the workplace. I was used to casual messages in class groups or student projects, but here I had to interact with supervisors, clients, and developers using clear, respectful, and concise language.
 
-- **T:** My goal was to improve my business communication skills — specifically in how I write professional emails, speak during stand-up meetings, and ask or respond to questions in team discussions. I also wanted to gain confidence in using the correct tone and terminology.
+- **T:** My goal was to improve my business communication skills especially in how I write professional emails, speak during stand-up meetings, and ask or respond to questions in team discussions. I also wanted to gain confidence in using the correct tone and terminology.
 
 - **A:** I completed the Business Communication module to learn the principles of workplace communication. I also paid close attention during meetings and email exchanges, observing the specific terminology and professional tone my colleagues used. I made a conscious effort to incorporate these terms into my daily stand-up updates and team interactions. I also practiced structuring my emails more clearly, using appropriate subject lines and greetings.
 
-- **R:** Over time, I became more confident in my communication. My messages were clearer, and I was able to express myself more professionally during meetings. I received positive feedback from my mentor and peers, and I now feel more prepared for any communication situation in a professional environment.
+- **R:** Over time, I became more confident in my communication. My messages were clearer, and I was able to express myself more professionally during meetings. 
 
 ## Interview Skills
 
@@ -129,9 +129,9 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 
 - **S:** Before starting my internship, I lacked confidence in interviews. I often struggled to express myself clearly or highlight my strengths effectively. I realized that even though I had the skills, I wasn’t communicating them well during interviews.
 
-- **T:** I needed to develop my interview skills, particularly in how I present myself, respond to questions professionally, and showcase my strengths using real examples. My goal was to become more comfortable and articulate during both mock and real interviews.
+- **T:** I needed to develop my interview skills, particularly in how I present myself and respond to questions professionally. My goal was to become more comfortable and articulate during both mock and real interviews.
 
-- **A:** I completed the Interview Skills module, which covered important techniques like using the STAR method to answer questions, maintaining good posture, speaking clearly, and dressing appropriately for an interview. I practiced answering common interview questions and reflected on my past experiences to prepare meaningful responses. I also worked on improving my body language and eye contact, and rehearsed speaking in a calm and confident tone.
+- **A:** I completed the Interview Skills module, which covered important techniques like maintaining good posture, speaking clearly, and dressing appropriately for interviews. I practiced answering common interview questions and reflected on my past experiences to prepare meaningful responses. I also worked on improving my body language and eye contact, and rehearsed speaking in a calm and confident tone.
 
 - **R:** These efforts helped me feel more prepared and composed in interviews. I now approach interviews with confidence and structure my answers clearly using the STAR method. I believe these skills played a big role in helping me secure my current internship, and I continue to build on them as I grow professionally and prepare for future opportunities.
 
@@ -142,7 +142,6 @@ For my mock interview, I applied several important skills that I had learned fro
 
 - Dressing smartly and professionally
 - Speaking clearly and articulating my thoughts
-- Structuring answers using the STAR method
 - Maintaining confident body language and eye contact
 - Actively listening and responding thoughtfully to each question
 - Staying calm and focused under pressure
@@ -158,7 +157,7 @@ This mock interview was not just a simulation — it helped me practice in a rea
 
 - **S:** As part of our internship preparation, we were tasked with completing a mock interview. This was meant to simulate a real-world interview scenario where we would apply the communication and presentation skills we had developed.
 
-- **T:** My goal was to approach the mock interview as professionally as possible — as if it were a real job opportunity. I wanted to show confidence, clearly articulate my experiences, and apply the interview strategies I had learned.
+- **T:** My goal was to approach the mock interview as professionally as possible, as if it were a real job opportunity. I wanted to show confidence, clearly articulate my experiences, and apply the interview strategies I had learned.
 
 - **A:** I prepared by revising key questions and practicing my answers using the STAR method. I chose professional attire for the video, created a quiet and presentable environment, and ensured I had a plain, clear background that was free of distractions. I also recorded the interview using clear audio and good lighting. During the interview, I paid close attention to my tone, avoided filler words, and stayed focused on answering the questions thoroughly and with structure.
 
@@ -184,15 +183,11 @@ This is how my updated LinkedIn profile looks like:
 
 - **S:** As I was entering the professional world through my internship, I realized I had very few connections in the tech industry. I knew that building a professional network was important for finding job opportunities, learning from others, and growing in my career, but I didn’t know how or where to begin.
 
-- **T:** My task was to build and strengthen my professional network, both online and in person. This involved creating profiles on networking platforms like LinkedIn and Indeed, connecting with others in my field, and engaging with the tech community in meaningful ways.
+- **T:** My task was to build and strengthen my professional network, both online and in person. This involved creating profiles on networking platforms like LinkedIn, connecting with others in my field, and engaging with the tech community in meaningful ways.
 
 - **A:** I started by updating and polishing my LinkedIn profile, adding a professional photo, listing my skills, and describing my education and internship experience. I connected with lecturers, peers, and other developers I met through the internship. I followed industry pages and engaged with posts that aligned with my interests in web and mobile development.
 
-I also created a profile on Indeed, where I explored job opportunities, followed companies I was interested in, and began applying for internships that matched my skills. I made sure to tailor my CV and cover letter for each application, and used both platforms to keep up with trends in the job market.
-
-In addition to online networking, I took the initiative to introduce myself to colleagues during my internship, ask questions about their career paths, and build relationships with people already working in the industry.
-
-- **R:** As a result, I grew my LinkedIn network significantly and started receiving messages from recruiters and fellow developers. Using Indeed, I was able to apply for several opportunities and gain more confidence in navigating the job market. Most importantly, I began forming professional connections that I believe will benefit me long-term. This experience showed me that networking is not just about looking for jobs — it's about learning, growing, and supporting others in the industry.
+- **R:** As a result, my LinkedIn profile became more visible, and I began attracting attention from recruiters and industry professionals. I received positive feedback on my portfolio and gained insights from experienced developers through their shared posts and comments. This experience helped me understand how maintaining a strong online presence can open doors to new opportunities.
 
 
 ## Workplace Etiquette
