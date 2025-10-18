@@ -2,8 +2,6 @@
 👋 Welcome to my Digital Portfolio!
 I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Application Development at CPUT. This portfolio highlights my journey through career planning, skill development, and self-reflection using the STAR Method (Situation, Task, Action, Result). This is a glimpse into my growth, passions, and future in tech.
 
-<hr style="height:3px; background-color:black; border:none;">
-
 ## Career Counselling
 
 ### Evidence
@@ -22,8 +20,6 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
   - Researching various IT career paths
   
 - **R:** By completing these exercises, I gained clarity and direction. I now have a stronger understanding of my career path and feel more confident in the small, actionable steps I need to take to achieve my long-term goals.
-
-<hr style="height:3px; background-color:black; border:none;">
 
 ## Skills & Interests
 
@@ -58,8 +54,6 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 
 
 - **R:** This process gave me a much clearer sense of direction and confidence. Along the way, I discovered a real passion for web development and React Native, particularly for creating cross-platform mobile apps. I now have a structured learning plan tailored to both my interests and the needs of the job market. I've also grown more aware of my strengths, values, and the soft skills I bring to the table.
-
-<hr style="height:3px; background-color:black; border:none;">
 
 ## Personality Assessment
 
@@ -174,11 +168,11 @@ This mock interview was not just a simulation — it helped me practice in a rea
 
 ### Evidence
 
-####LinkedIn Profile
+#### LinkedIn Profile
 
 [insert below]
 
-####Indeed Profile
+#### Indeed Profile
 
 [insert below]
 
@@ -199,4 +193,19 @@ In addition to online networking, I took the initiative to introduce myself to c
 - **R:** As a result, I grew my LinkedIn network significantly and started receiving messages from recruiters and fellow developers. Using Indeed, I was able to apply for several opportunities and gain more confidence in navigating the job market. Most importantly, I began forming professional connections that I believe will benefit me long-term. This experience showed me that networking is not just about looking for jobs — it's about learning, growing, and supporting others in the industry.
 
 
+## Workplace Etiquette
+
+### Evidence
+
+![](workplace_etiquette.png)
+
+### Reflection
+
+- **S:** Starting my internship, I noticed the importance of maintaining professionalism in the workplace through proper behavior, communication, and appearance. I realized that workplace etiquette directly impacts how colleagues and supervisors perceive you.
+
+- **T:** My task was to understand and consistently apply the appropriate workplace etiquette to fit into the company culture and maintain positive professional relationships.
+  
+- **A:** I made sure to dress appropriately every day, adhering to the company’s dress code by choosing neat, professional attire. I committed to arriving on time every workday, respecting the set hours of 09:00 to 17:00, Tuesday to Friday. I observed the language used by my colleagues and supervisors, ensuring I communicated clearly and respectfully, avoiding slang or inappropriate language. I also practiced active listening during meetings and maintained a positive attitude, contributing to a friendly and productive work environment.
+
+- **R:** As a result, I was able to build trust and respect with my team and supervisors. My professionalism helped me integrate smoothly into the workplace culture and set a positive example for myself as an intern. I feel confident that these habits will benefit me throughout my career.
 
