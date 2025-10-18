@@ -126,4 +126,49 @@ I am Adaeze Princess Ugbobuaku, a third-year ICT student specializing in Applica
 
 - **R:** Over time, I became more confident in my communication. My messages were clearer, and I was able to express myself more professionally during meetings. I received positive feedback from my mentor and peers, and I now feel more prepared for any communication situation in a professional environment.
 
+## Interview Skills
+
+### Evidence
+![](interview_skills.png)
+
+### Reflection
+
+- **S:** Before starting my internship, I lacked confidence in interviews. I often struggled to express myself clearly or highlight my strengths effectively. I realized that even though I had the skills, I wasn’t communicating them well during interviews.
+
+- **T:** I needed to develop my interview skills, particularly in how I present myself, respond to questions professionally, and showcase my strengths using real examples. My goal was to become more comfortable and articulate during both mock and real interviews.
+
+- **A:** I completed the Interview Skills module, which covered important techniques like using the STAR method to answer questions, maintaining good posture, speaking clearly, and dressing appropriately for an interview. I practiced answering common interview questions and reflected on my past experiences to prepare meaningful responses. I also worked on improving my body language and eye contact, and rehearsed speaking in a calm and confident tone.
+
+- **R:** These efforts helped me feel more prepared and composed in interviews. I now approach interviews with confidence and structure my answers clearly using the STAR method. I believe these skills played a big role in helping me secure my current internship, and I continue to build on them as I grow professionally and prepare for future opportunities.
+
+## Mock Interview
+
+### Evidence
+For my mock interview, I applied several important skills that I had learned from the Interview Skills module, including:
+
+- Dressing smartly and professionally
+- Speaking clearly and articulating my thoughts
+- Structuring answers using the STAR method
+- Maintaining confident body language and eye contact
+- Actively listening and responding thoughtfully to each question
+- Staying calm and focused under pressure
+
+This mock interview was not just a simulation — it helped me practice in a realistic setting and gave me the confidence I needed.
+📎 Watch my mock interview here:
+🔗 [📥 Download / Watch the mock interview video (raw)](https://raw.githubusercontent.com/PrincessUgbobuaku/My-Digital-Portfolio/main/Mock%20Interview%20-%20230098010%20-%20Compressed.mp4)
+
+
+
+![](mock_interview.png)
+
+### Reflection
+
+- **S:** Before starting my internship, I lacked confidence in interviews. I often struggled to express myself clearly or highlight my strengths effectively. I realized that even though I had the skills, I wasn’t communicating them well during interviews.
+
+- **T:** I needed to develop my interview skills, particularly in how I present myself, respond to questions professionally, and showcase my strengths using real examples. My goal was to become more comfortable and articulate during both mock and real interviews.
+
+- **A:** I completed the Interview Skills module, which covered important techniques like using the STAR method to answer questions, maintaining good posture, speaking clearly, and dressing appropriately for an interview. I practiced answering common interview questions and reflected on my past experiences to prepare meaningful responses. I also worked on improving my body language and eye contact, and rehearsed speaking in a calm and confident tone.
+
+- **R:** These efforts helped me feel more prepared and composed in interviews. I now approach interviews with confidence and structure my answers clearly using the STAR method. I believe these skills played a big role in helping me secure my current internship, and I continue to build on them as I grow professionally and prepare for future opportunities.
+
 
